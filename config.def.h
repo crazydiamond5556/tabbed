@@ -3,9 +3,9 @@
 /* appearance */
 static const char font[]        = "Inconsolata:size=17";
 static const char* normbgcolor  = "#121314";
-static const char* normfgcolor  = "#cccccc";
-static const char* selbgcolor   = "#198844";
-static const char* selfgcolor   = "#ffffff";
+static const char* normfgcolor  = "#bbbbbb";
+static const char* selbgcolor   = "#770000";
+static const char* selfgcolor   = "#eeeeee";
 static const char* urgbgcolor   = "#111111";
 static const char* urgfgcolor   = "#cc0000";
 static const char before[]      = "<";
